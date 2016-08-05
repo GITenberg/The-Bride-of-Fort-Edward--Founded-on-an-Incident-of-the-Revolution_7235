@@ -1,0 +1,26 @@
+_repo: The-Bride-of-Fort-Edward--Founded-on-an-Incident-of-the-Revolution_7235
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacon, Delia Salter
+    birthdate: 1811
+    deathdate: 1859
+    gutenberg_agent_id: '2389'
+    url: http://www.gutenberg.org/2009/agents/2389
+    wikipedia: http://en.wikipedia.org/wiki/Delia_Bacon
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- History -- Revolution, 1775-1783 -- Drama'
+- !lcsh 'Fort Edward (N.Y.) -- History -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: 'The Bride of Fort Edward: Founded on an Incident of the Revolution'
+url: http://www.gutenberg.org/ebooks/7235
